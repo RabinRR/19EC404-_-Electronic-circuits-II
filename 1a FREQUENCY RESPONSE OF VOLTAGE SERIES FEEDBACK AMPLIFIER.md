@@ -12,13 +12,17 @@
 ## With Feedback:
 <img width="617" height="393" alt="image" src="https://github.com/user-attachments/assets/77ad03ce-ee9e-4a7e-950b-eeaad0aaa300" />
 
+![WhatsApp Image 2025-11-17 at 12 24 53_a357d934](https://github.com/user-attachments/assets/ff9a1d4f-af52-4c41-81cb-89a03b56790d)
+
 
 
 ## Tabulation
+![WhatsApp Image 2025-11-17 at 12 24 54_905a2f20](https://github.com/user-attachments/assets/89c8ee50-bf32-4784-a352-a2a53283ab41)
 
 
 
 ## Graph
+![WhatsApp Image 2025-11-17 at 12 24 55_2ce518aa](https://github.com/user-attachments/assets/84ba9259-56cf-4ce9-94ea-37b3a96fa906)
 
 
 
