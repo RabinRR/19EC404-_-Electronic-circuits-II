@@ -1,5 +1,5 @@
 ## Exp. No. 1(d)
-**Date:**  
+**Date: 1/09/2025**  
 
 ## FREQUENCY RESPONSE OF CURRENT SHUNT FEEDBACK AMPLIFIER
 <img width="789" height="845" alt="image" src="https://github.com/user-attachments/assets/151287ca-5058-472f-85c6-c96d7f7ac1b7" />
@@ -13,6 +13,8 @@
 # With Feedback:
 <img width="787" height="613" alt="image" src="https://github.com/user-attachments/assets/ce6df7b4-b76c-4d4a-b54d-f49f67a6edc8" />
 
+
+
 # Tabulation
 
 
@@ -20,6 +22,7 @@
 
 
 # Sample images 
+![WhatsApp Image 2025-11-09 at 21 16 02_5ca99bb1](https://github.com/user-attachments/assets/2a905c09-60bb-478c-b361-63f7ade20fa7)
 
 
 ### **Result**
@@ -27,11 +30,11 @@
 Thus the current shunt feedback amplifier is designed and constructed  and the following parameters are calculated.
 | S.No | Parameters | Without Feedback | With Feedback |
 |:----:|-------------|:----------------:|:--------------:|
-| 1 | Lower cut-off frequency | = | = |
-| 2 | Upper cut-off frequency | = | = |
-| 3 | Bandwidth | \( BW = fh - fl = \) | \( BW = f'h - f'l = \) |
-| 4 | Mid-band Gain | \( A{v(mid)} = \) | \( A'{v(mid)} = \) |
-| 5 | Gain at half power point |  |  |
+| 1 | Lower cut-off frequency | 7KHZ | 5KHZ |
+| 2 | Upper cut-off frequency | 80KHZ | 900KHZ |
+| 3 | Bandwidth | \( BW = fh - fl = 73KHZ\) | \( BW = f'h - f'l = 895KHZ\) |
+| 4 | Mid-band Gain | \( A{v(mid)} = 11.12\) | \( A'{v(mid)} = 2.92\) |
+| 5 | Gain at half power point | 7.86 | 2.06 |
 
 ---
 
